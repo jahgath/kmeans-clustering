@@ -35,5 +35,5 @@ Each video is a walkthrough of one notebook, hosted on Google Drive.
 
 | Topic | Notebook | Video |
 |---|---|---|
-| PyCaret Capabilities Tour | [Open notebook](https://github.com/jahgath/kmeans-clustering/blob/main/final_pycaret_capabilities_tour.ipynb) | [▶️ Watch on Drive](https://drive.google.com/file/d/1pePWxBtOuWe91xu3u2lThfAfo-WP0-CT/view?usp=drive_link) |
+| PyCaret Capabilities Tour | [Open notebook](https://github.com/jahgath/kmeans-clustering/blob/main/final_pycaret_capabilities_tour.ipynb) | [▶️ Watch on Drive](https://drive.google.com/file/d/1pePWxBtOuWe91xu3u2lThfAfo-WP0-CT/view?usp=sharing) |
 | PyCaret Zero to Hero | [Open notebook](https://github.com/jahgath/kmeans-clustering/blob/main/final_pycaret_zero_to_hero.ipynb) | [▶️ Watch on Drive](https://drive.google.com/file/d/1qQMWalrUJCZ6m0UtZb8yzykjjABNFtTD/view?usp=drive_link) |
